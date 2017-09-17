@@ -1,7 +1,1 @@
-Git is a distributed version control system.
-Git is free software.
-
-this is diff。
-
-
-update
+这个项目主要是为了学习GitHub以及JQuery的使用。
